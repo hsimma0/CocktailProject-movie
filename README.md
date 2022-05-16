@@ -9,8 +9,8 @@ Ajax<br>
 jQuery
 
 ## Screenshot
-![This is an image](https://imgur.com/zYHCV4b)
-![This is an image](https://imgur.com/gXh617x)
+![This is an image](https://i.imgur.com/zYHCV4b.png)
+![This is an image](https://i.imgur.com/gXh617x.png)
 
 ## Getting Started 
 Here is [My Website](https://cyberbar.netlify.app/)
