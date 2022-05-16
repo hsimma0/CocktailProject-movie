@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;500;900&family=VT323&display=swap');
+
+
+body{
+    background-image: url('https://i.pinimg.com/originals/39/ec/d1/39ecd18dfe039f474138051777c6f0b9.gif');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+    font-family: 'Roboto Slab', serif;
+    font-family: 'VT323', monospace;
+    color: white;
+}
+
+
+h1{
+    background-color: purple;
+    text-align: center;
+}
+
+h2{
+    background-color: transparent;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+input[type=text]{
+    width:50%;
+    transition: width 0.4s ease-in-out
+    text-align: center;
+    color: azure;
+    background-color: rgba(236, 9, 224, 0.886)
+}
+
+p{
+    text-align: center;
+}
